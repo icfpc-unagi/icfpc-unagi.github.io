@@ -1,0 +1,46 @@
+section:
+  name: History # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 2024
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2024**: 1st Place
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- company:
+    name: 2023
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2023**: 2nd Place
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- company:
+    name: 2023
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2022**: 1st Place
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

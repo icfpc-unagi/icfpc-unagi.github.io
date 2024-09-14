@@ -35,7 +35,7 @@
     {{- partial "navigators/navbar.html" . -}}
 
     <!--- ADD HOME SECTION ---------------->
-    {{- partial "sections/home.html" . -}}
+    <!-- {{- partial "sections/home.html" . -}} -->
 
     <!--- ADD OPTIONAL SECTIONS ----------->
     {{ $sections:= site.Data.sections }}
@@ -65,8 +65,10 @@
     {{ end }}
 
     <!--- ADD FOOTER ----------------------->
+    <!--
     {{ $footerTemplate:= site.Params.footer.template | default "footer.html" }}
     {{- partial $footerTemplate . -}}
+        -->
 
     <!--- ADD COMMON SCRIPTS --------------->
     {{ partial "scripts.html" . }}
