@@ -20,7 +20,7 @@
         </p>
         -->
         <!-- Add company overview -->
-        <p>{{ .company.overview | markdownify }}</p>
+        <p>{{ .company.overview | markdownify | safeHTML }}</p>
     </div>
     <!-- Add the positions information -->
      <!--
