@@ -19,12 +19,22 @@ experiences:
     overview: |
       ### **2024**: 1st Place
 
-      <a href="https://icfpcontest2024.github.io/"><i class="fa fa-house"></i> Website</a> | 
-      <a href="https://github.com/icfpc-unagi/icfpc2024"><i class="fab fa-github"></i> GitHub</a>
+      <a href="https://icfpcontest2024.github.io/"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://github.com/icfpc-unagi/icfpc2024"><i class="fab fa-github"></i> Our Solution</a>
     
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
+      <br><br>
+      <div class="row">
+      <div class="col-12 col-md-6 mb-3">
+      {{<img src="/2024/standings.jpg" >}}
+      </div>
+      <div class="col-12 col-md-6 mb-3">
       {{<img src="/2024/announcement.jpg" >}}
+      </div>
+      </div>
+
 
 
 - company:
@@ -50,3 +60,143 @@ experiences:
       ### **2022**: 1st Place
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- company:
+    name: 2021
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2021**: 2nd Place
+      <a href="https://www.youtube.com/watch?v=mHk6CtirN7g"><i class="fab fa-youtube"></i> Video</a> |
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+      TODO: なんか可視化の動画が色々ありそう（スライドに入ってそう）
+
+      <a href="https://www.youtube.com/live/mHk6CtirN7g?si=wA9CjVHO_kbpBFKf&t=1715"><img src="/2021/youtube2.png" ></a>
+
+- company:
+    name: 2020
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2020**: 2nd Place
+      <a href="https://icfpcontest2020.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+      TODO: 公式サイトがぶっ壊れてるがどっかに良い画像ないだろうか
+
+
+- company:
+    name: 2019
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2019**: 1st Place
+      <a href="https://icfpcontest2019.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
+      <a href="https://www.youtube.com/watch?v=J1PzFKK0LOQ"><i class="fab fa-youtube"></i> Video</a> |
+      
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+      TODO: 公式サイトがぶっ壊れてるがどっかに良い画像ないだろうか
+
+- company:
+    name: 2018
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2018**: 1st Place
+      <a href="https://icfpcontest2018.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
+      <a href="https://www.youtube.com/watch?v=E7KManykki8"><i class="fab fa-youtube"></i> Video</a> |
+
+- company:
+    name: 2018
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2017**: Lambda Punter -- *2nd Place*
+      <a href="https://icfpcontest2017.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a>
+
+- company:
+    name: 2018
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2016**: Origami -- *1st Place*
+      <a href="https://icfpc2016.blogspot.com/" target="_blank"><i class="fa fa-house"></i> Website</a>
+
+- company:
+    name: 2015
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2015**: Honeycomb Tetris -- *1st Place*
+      <a href="https://2015.icfpcontest.org/" target="_blank"><i class="fa fa-house"></i> Website</a> |
+      <a href="https://www.youtube.com/watch?v=9hfolFJ9rlk" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+
+- company:
+    name: 2014
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2014**: Lisp Pac-Man -- *2nd Place*
+      <a href="https://icfpcontest2014.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> |
+      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+
+- company:
+    name: 2013
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2013**: Program Synthesis -- *1st Place*
+      <a href="https://icfpcontest.github.io/content/2013/task.txt" target="_blank"><i class="fa fa-house"></i> Task</a> |
+      <a href="/2013/paper.pdf" target="_blank"><i class="fa fa-house"></i> Paper</a>
+
+- company:
+    name: 2011
+    url: "https://icfpcontest2024.github.io/"
+    # location: Dhaka Branch
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: |
+      ### **2011**: Lambda: the Gathering -- *2nd Place*
+      <a href="https://www.kb.ecei.tohoku.ac.jp/www.icfpcontest.org/index.html" target="_blank"><i class="fa fa-house"></i> Website</a> |
+      
+
+            
+      
+
+            
+
+            
+            
