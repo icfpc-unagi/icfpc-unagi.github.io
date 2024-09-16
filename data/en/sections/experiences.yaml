@@ -19,8 +19,8 @@ experiences:
     overview: |
       ### **2024**: 1st Place
 
-      <a href="https://icfpcontest2024.github.io/"><i class="fa fa-house"></i> Official Website</a> | 
-      <a href="https://github.com/icfpc-unagi/icfpc2024"><i class="fab fa-github"></i> Our Solution</a>
+      <a href="https://icfpcontest2024.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://github.com/icfpc-unagi/icfpc2024" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
       <div class="row">
       <div class="col-12 col-md-6 mb-3">
@@ -108,7 +108,8 @@ experiences:
     overview: |
       ### **2021**: Human Tetris -- 2nd Place
       <a href="https://icfpcontest2021.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
-      <a href="https://www.youtube.com/watch?v=mHk6CtirN7g" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=mHk6CtirN7g" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2021" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
       <div class="row">
         <div class="col-12 col-md-6 mb-3">
@@ -147,7 +148,8 @@ experiences:
     overview: |
       ### **2020**: Message From Space -- 2nd Place
       <a href="https://icfpcontest2020.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
-      <a href="https://www.youtube.com/watch?v=iL8Q0uVRFKM"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=iL8Q0uVRFKM"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2020" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
 
       <div class="row">
@@ -173,7 +175,8 @@ experiences:
     overview: |
       ### **2019**: Worker-Wrappers -- 1st Place
       <a href="https://icfpcontest2019.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
-      <a href="https://www.youtube.com/watch?v=J1PzFKK0LOQ"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=J1PzFKK0LOQ"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2019" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
       
 
       <a href="https://www.youtube.com/watch?v=E7KManykki8" target="_blank">
@@ -194,7 +197,8 @@ experiences:
     overview: |
       ### **2018**: 3D Printer -- 1st Place
       <a href="https://icfpcontest2018.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
-      <a href="https://www.youtube.com/watch?v=E7KManykki8"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=E7KManykki8"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2018" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
       <div class="row">
         <div class="col-12 col-md-12 mb-3">
@@ -226,7 +230,8 @@ experiences:
     overview: |
       ### **2016**: Origami -- *1st Place*
       <a href="https://icfpc2016.blogspot.com/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
-      <a href="https://www.youtube.com/watch?v=X3AmLKO6t9w" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=X3AmLKO6t9w" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2016" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
 
       <div class="row">
@@ -266,7 +271,8 @@ experiences:
     overview: |
       ### **2015**: Honeycomb Tetris -- *1st Place*
       <a href="https://2015.icfpcontest.org/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
-      <a href="https://www.youtube.com/watch?v=9hfolFJ9rlk" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=9hfolFJ9rlk" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2015" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
       <div class="row">
         <div class="col-12 col-md-6 mb-3">{{<img src="/2015/announcement.jpg" >}}</div>
@@ -289,7 +295,8 @@ experiences:
     overview: |
       ### **2014**: Lisp Pac-Man -- *2nd Place*
       <a href="https://icfpcontest2014.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
-      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2014" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
       <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank">{{<img src="/2014/announcement.png">}}</a>
 
