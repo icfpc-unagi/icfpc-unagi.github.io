@@ -30,3 +30,5 @@ markup:
 
 languageCode: en-us
 title: "Team Unagi"
+baseURL: https://icfpc-unagi.github.io/
+
