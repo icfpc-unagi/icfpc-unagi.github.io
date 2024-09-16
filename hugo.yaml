@@ -27,3 +27,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+languageCode: en-us
+title: "Team Unagi"
