@@ -21,11 +21,7 @@ experiences:
 
       <a href="https://icfpcontest2024.github.io/"><i class="fa fa-house"></i> Official Website</a> | 
       <a href="https://github.com/icfpc-unagi/icfpc2024"><i class="fab fa-github"></i> Our Solution</a>
-    
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-      <br><br>
       <div class="row">
       <div class="col-12 col-md-6 mb-3">
       {{<img src="/2024/standings.jpg" >}}
@@ -46,20 +42,61 @@ experiences:
     # company overview
     overview: |
       ### **2023**: 2nd Place
+      <a href="https://2023.icfpcontest.com/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=BPJ3OkxXdkk" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2023" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://www.youtube.com/watch?v=BPJ3OkxXdkk" target="_blank">
+            {{<img src="/2023/announcement.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://2023.icfpcontest.com/scoreboard" target="_blank">
+            {{<img src="/2023/standings.png" >}}
+          </a>
+        </div>
+      </div>
 
 - company:
-    name: 2023
+    name: 2022
     url: "https://icfpcontest2024.github.io/"
     # location: Dhaka Branch
     logo: /images/experiences/company.png
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2022**: 1st Place
+      ### **2022**: Image Compression -- 1st Place
+      <a href="https://icfpcontest2022.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=NCS3wGaB-ys" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2022" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+      <div class="row">
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2022/submissions_png/16-8849-animated.png">}}
+        </div>
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2022/submissions_png/19-2796-animated.png">}}
+        </div>
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2022/submissions_png/17-2754-animated.png">}}
+        </div>
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2022/submissions_png/12-8581-animated.png">}}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12 col-md-12 mb-3">
+          <a href="https://www.youtube.com/watch?v=NCS3wGaB-ys" target="_blank">
+            {{<img src="/2022/announcement.jpg" >}}
+          </a>
+        </div>
+      </div>          
+
 
 - company:
     name: 2021
@@ -69,14 +106,36 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2021**: 2nd Place
-      <a href="https://www.youtube.com/watch?v=mHk6CtirN7g"><i class="fab fa-youtube"></i> Video</a> |
+      ### **2021**: Human Tetris -- 2nd Place
+      <a href="https://icfpcontest2021.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=mHk6CtirN7g" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://www.youtube.com/watch?v=mHk6CtirN7g" target="_blank">
+            {{<img src="/2021/announcement.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://www.youtube.com/live/mHk6CtirN7g?si=wA9CjVHO_kbpBFKf&t=1715" target="_blank">
+            {{<img src="/2021/presentation.png" >}}
+          </a>
+        </div>
+      </div>
 
-      TODO: なんか可視化の動画が色々ありそう（スライドに入ってそう）
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          {{<img src="/2021/animation-01.svg">}}
+        </div>
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2021/vis1.png">}}
+        </div>
+        <div class="col-6 col-md-3 mb-3">
+          {{<img src="/2021/vis2.png">}}
+        </div>
+      </div>
+          
 
-      <a href="https://www.youtube.com/live/mHk6CtirN7g?si=wA9CjVHO_kbpBFKf&t=1715"><img src="/2021/youtube2.png" ></a>
 
 - company:
     name: 2020
@@ -86,13 +145,23 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2020**: 2nd Place
-      <a href="https://icfpcontest2020.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
+      ### **2020**: Message From Space -- 2nd Place
+      <a href="https://icfpcontest2020.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=iL8Q0uVRFKM"><i class="fab fa-youtube"></i> Official Video</a>
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-      TODO: 公式サイトがぶっ壊れてるがどっかに良い画像ないだろうか
-
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://www.youtube.com/watch?v=iL8Q0uVRFKM" target="_blank">
+            {{<img src="/2020/announcement.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://youtu.be/iL8Q0uVRFKM?si=-7UeoR2_4a8H84XN&t=2501" target="_blank">
+            {{<img src="/2020/announcement2.png" >}}
+          </a>
+        </div>
+      </div>
 
 - company:
     name: 2019
@@ -102,26 +171,18 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2019**: 1st Place
-      <a href="https://icfpcontest2019.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
-      <a href="https://www.youtube.com/watch?v=J1PzFKK0LOQ"><i class="fab fa-youtube"></i> Video</a> |
+      ### **2019**: Worker-Wrappers -- 1st Place
+      <a href="https://icfpcontest2019.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=J1PzFKK0LOQ"><i class="fab fa-youtube"></i> Official Video</a>
       
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <a href="https://www.youtube.com/watch?v=E7KManykki8" target="_blank">
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2019/announcement.png" >}}</div>
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2019/presentation.png" >}}</div>
+      </div>
+      </a>
 
-      TODO: 公式サイトがぶっ壊れてるがどっかに良い画像ないだろうか
-
-- company:
-    name: 2018
-    url: "https://icfpcontest2024.github.io/"
-    # location: Dhaka Branch
-    logo: /images/experiences/company.png
-    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
-    # company overview
-    overview: |
-      ### **2018**: 1st Place
-      <a href="https://icfpcontest2018.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> | 
-      <a href="https://www.youtube.com/watch?v=E7KManykki8"><i class="fab fa-youtube"></i> Video</a> |
 
 - company:
     name: 2018
@@ -131,11 +192,32 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2017**: Lambda Punter -- *2nd Place*
-      <a href="https://icfpcontest2017.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a>
+      ### **2018**: 3D Printer -- 1st Place
+      <a href="https://icfpcontest2018.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
+      <a href="https://www.youtube.com/watch?v=E7KManykki8"><i class="fab fa-youtube"></i> Official Video</a>
+
+      <div class="row">
+        <div class="col-12 col-md-12 mb-3">
+          <a href="https://www.youtube.com/watch?v=E7KManykki8" target="_blank">
+            {{<img src="/2018/announcement.png" >}}
+          </a>
+        </div>
+      </div>
+
+
+# - company:
+#     name: 2017
+#     url: "https://icfpcontest2024.github.io/"
+#     # location: Dhaka Branch
+#     logo: /images/experiences/company.png
+#     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+#     # company overview
+#     overview: |
+#       ### **2017**: Lambda Punter
+#       <a href="https://icfpcontest2017.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a>
 
 - company:
-    name: 2018
+    name: 2016
     url: "https://icfpcontest2024.github.io/"
     # location: Dhaka Branch
     logo: /images/experiences/company.png
@@ -143,7 +225,36 @@ experiences:
     # company overview
     overview: |
       ### **2016**: Origami -- *1st Place*
-      <a href="https://icfpc2016.blogspot.com/" target="_blank"><i class="fa fa-house"></i> Website</a>
+      <a href="https://icfpc2016.blogspot.com/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="https://www.youtube.com/watch?v=X3AmLKO6t9w" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://youtu.be/X3AmLKO6t9w?si=Zbn1g4p7T99ff79n" target="_blank">
+            {{<img src="/2016/announcement2.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://youtu.be/X3AmLKO6t9w?si=Zbn1g4p7T99ff79n&t=1730" target="_blank">
+            {{<img src="/2016/presentation1.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://youtu.be/X3AmLKO6t9w?si=Zbn1g4p7T99ff79n&t=1730" target="_blank">
+            {{<img src="/2016/presentation2.png" >}}
+          </a>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12 col-md-12 mb-3">
+          <a href="https://www.itmedia.co.jp/news/articles/1701/27/news029.html" target="_blank">
+            {{<img src="/2016/itmedia.png" >}}
+          </a>
+        </div>
+      </div>
+
 
 - company:
     name: 2015
@@ -154,8 +265,19 @@ experiences:
     # company overview
     overview: |
       ### **2015**: Honeycomb Tetris -- *1st Place*
-      <a href="https://2015.icfpcontest.org/" target="_blank"><i class="fa fa-house"></i> Website</a> |
-      <a href="https://www.youtube.com/watch?v=9hfolFJ9rlk" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+      <a href="https://2015.icfpcontest.org/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="https://www.youtube.com/watch?v=9hfolFJ9rlk" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2015/announcement.jpg" >}}</div>
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2015/leaderboard.png" >}}</div>
+      </div>
+
+      <a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=145856&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8" target="_blank">
+        {{<img src="/2015/ipsj.png">}}
+      </a>
+
+      
 
 - company:
     name: 2014
@@ -166,8 +288,10 @@ experiences:
     # company overview
     overview: |
       ### **2014**: Lisp Pac-Man -- *2nd Place*
-      <a href="https://icfpcontest2014.github.io/" target="_blank"><i class="fa fa-house"></i> Website</a> |
-      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+      <a href="https://icfpcontest2014.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank"><i class="fab fa-youtube"></i> Official Video</a>
+
+      <a href="https://www.youtube.com/watch?v=wIuFFU8T0kI" target="_blank">{{<img src="/2014/announcement.png">}}</a>
 
 - company:
     name: 2013
@@ -178,8 +302,18 @@ experiences:
     # company overview
     overview: |
       ### **2013**: Program Synthesis -- *1st Place*
-      <a href="https://icfpcontest.github.io/content/2013/task.txt" target="_blank"><i class="fa fa-house"></i> Task</a> |
-      <a href="/2013/paper.pdf" target="_blank"><i class="fa fa-house"></i> Paper</a>
+      <a href="https://icfpcontest.github.io/content/2013/task.txt" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="/2013/paper.pdf" target="_blank"><i class="fa-solid fa-pen"></i> Our Paper</a>
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2013/announcement.jpg" >}}</div>
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2013/paper.png" >}}</div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2013/photo1.jpg" >}}</div>
+        <div class="col-12 col-md-6 mb-3">{{<img src="/2013/photo2.jpg" >}}</div>
+      </div>
+
 
 - company:
     name: 2011
@@ -190,9 +324,49 @@ experiences:
     # company overview
     overview: |
       ### **2011**: Lambda: the Gathering -- *2nd Place*
-      <a href="https://www.kb.ecei.tohoku.ac.jp/www.icfpcontest.org/index.html" target="_blank"><i class="fa fa-house"></i> Website</a> |
-      
+      <a href="https://icfpc2011.blogspot.com/?m=1" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="https://www.youtube.com/watch?v=gfURR3g6iXI" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://wata-orz.hatenadiary.org/entry/20110621/1308674762" target="_blank"><i class="fa-solid fa-pen"></i> Our blog (ja)</a>
 
+      <a href="https://icfpc2011.blogspot.com/2011/06/task-description-contest-starts-now.html?m=1" target="_blank">
+      <div class="row">
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_S.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_K.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_i.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_zero.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_succ.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_dbl.png" >}}</div>
+      </div>
+      <div class="row">
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_attack.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_revive.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_zombie.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_get.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_put.png" >}}</div>
+        <div class="col-4 col-md-2 mb-3">{{<img src="/2011/card_copy.png" >}}</div>
+      </div>
+      </a>
+      
+      <div class="row">
+        <div class="col-6 col-md-4 mb-3">{{<img src="/2011/photo2.jpg" >}}</div>
+        <div class="col-6 col-md-4 mb-3">{{<img src="/2011/photo1.jpg" >}}</div>
+        <div class="col-6 col-md-4 mb-3">{{<img src="/2011/photo3.jpg" >}}</div>
+      </div>
+      </a>
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://drive.google.com/file/d/0B5qAGJRlAIu4NWU2ZjAxODItZDU0Mi00ZjczLWE2NGMtOWY3Y2ZmNGNiOTVk/view?resourcekey=0-CW71aCdY2RRIRE56zy3ucw" target="_blank">
+            {{<img src="/2011/announcement.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://youtu.be/gfURR3g6iXI?si=zFXxPzjYyeXStD-F&t=2012" target="_blank">
+            {{<img src="/2011/presentation.png" >}}
+          </a>
+        </div>
+      </div>
+      </a>
             
       
 
