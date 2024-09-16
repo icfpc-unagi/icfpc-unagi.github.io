@@ -1,3 +1,14 @@
+# メモ
+
+* 作業する時は `hugo server -w` を起動
+* 内容(yaml)は `data/en/` 以下
+* 画像は `static/` 以下
+* テンプレート(html)は `layouts/` 以下（かなり弄ってるのでおかしくなったら公式テンプレートのものを参照）
+
+以下、オリジナルのREADME
+
+----
+
 > [!IMPORTANT]
 > If you are migrating from v3 (`git submodule` based) theme to v4 (`hugo modules` based) theme, please read this [migration guide](https://toha-guides.netlify.app/posts/update-v3-to-v4/).
 
