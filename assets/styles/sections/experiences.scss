@@ -29,17 +29,16 @@
 
     .vertical-line {
       align-self: stretch;
+      position: relative;
 
       &::after {
         content: '';
-        position: relative;
+        position: absolute;
         border-left: 3px solid get-light-color('accent-color');
         z-index: 1;
         height: 100%;
-        left: -23px;
-      }
-      &:nth-child(even)::after {
-        left: -26px;
+        left: 50%;
+        transform: translateX(-50%);
       }
     }
     .horizontal-line {
@@ -69,11 +68,11 @@
       &:nth-child(2n) {
         div {
           &:nth-child(1) .corner {
-            left: 50%;
+            left: calc(50% - 1.5px);
             top: -50%;
           }
           &:nth-child(3) .corner {
-            left: -50%;
+            left: calc(-50% + 1.5px);
             top: calc(50% - 3px);
           }
         }
@@ -81,11 +80,11 @@
       &:nth-child(4n) {
         div {
           &:nth-child(1) .corner {
-            left: 50%;
+            left: calc(50% - 1.5px);
             top: calc(50% - 3px);
           }
           &:nth-child(3) .corner {
-            left: -50%;
+            left: calc(-50% + 1.5px);
             top: -50%;
           }
         }
@@ -116,10 +115,17 @@
     }
     .timeline {
       .vertical-line {
-        visibility: hidden;
+        display: none !important;
       }
       .horizontal-line {
-        visibility: hidden;
+        display: none;
+      }
+      > .row:not(.horizontal-line) > .col-10 {
+        width: 100%;
+      }
+      .experience-entry-heading a {
+        display: inline-block;
+        white-space: nowrap;
       }
     }
   }
