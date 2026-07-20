@@ -10,6 +10,36 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: 2025
+    url: "https://icfpcontest2025.github.io/"
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png
+    overview: |
+      ### **2025**: Maze Reconstruction -- 1st Place
+
+      <a href="https://icfpcontest2025.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> |
+      <a href="https://www.youtube.com/watch?v=6-qhBSKxUUE&t=26405s" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
+      <a href="https://github.com/icfpc-unagi/icfpc2025" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
+
+      <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://sakana.ai/icfp-2025/" target="_blank">
+            {{<img src="/2025/shinkaevolve-dashboard.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://www.youtube.com/watch?v=6-qhBSKxUUE&t=26405s" target="_blank">
+            {{<img src="/2025/announcement.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://icfpcontest2025.github.io/prizes.html" target="_blank">
+            {{<img src="/2025/prizes.png" >}}
+          </a>
+        </div>
+      </div>
+
+- company:
     name: 2024
     url: "https://icfpcontest2024.github.io/"
     # location: Dhaka Branch
@@ -17,7 +47,7 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2024**: 1st Place
+      ### **2024**: Interstellar Functional Programming -- 1st Place
 
       <a href="https://icfpcontest2024.github.io/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
       <a href="https://github.com/icfpc-unagi/icfpc2024" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
@@ -41,7 +71,7 @@ experiences:
     darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     overview: |
-      ### **2023**: 2nd Place
+      ### **2023**: Musician Placement -- 2nd Place
       <a href="https://2023.icfpcontest.com/" target="_blank"><i class="fa fa-house"></i> Official Website</a> | 
       <a href="https://www.youtube.com/watch?v=BPJ3OkxXdkk" target="_blank"><i class="fab fa-youtube"></i> Official Video</a> |
       <a href="https://github.com/icfpc-unagi/icfpc2023" target="_blank"><i class="fab fa-github"></i> Our Solution</a>
@@ -374,10 +404,3 @@ experiences:
         </div>
       </div>
       </a>
-            
-      
-
-            
-
-            
-            
