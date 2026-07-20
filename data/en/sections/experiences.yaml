@@ -23,18 +23,23 @@ experiences:
 
       <div class="row">
         <div class="col-12 col-md-6 mb-3">
-          <a href="https://sakana.ai/icfp-2025/" target="_blank">
-            {{<img src="/2025/shinkaevolve-dashboard.png" >}}
-          </a>
-        </div>
-        <div class="col-12 col-md-6 mb-3">
           <a href="https://www.youtube.com/watch?v=6-qhBSKxUUE&t=26405s" target="_blank">
             {{<img src="/2025/announcement.png" >}}
           </a>
         </div>
         <div class="col-12 col-md-6 mb-3">
           <a href="https://icfpcontest2025.github.io/prizes.html" target="_blank">
-            {{<img src="/2025/prizes.png" >}}
+            {{<img src="/2025/prizes-cropped.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://sakana.ai/icfp-2025/" target="_blank">
+            {{<img src="/2025/shinkaevolve-dashboard.png" >}}
+          </a>
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+          <a href="https://github.com/icfpc-unagi/icfpc2025" target="_blank">
+            {{<img src="/2025/maze-reconstruction-examples.webp" >}}
           </a>
         </div>
       </div>
